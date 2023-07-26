@@ -27,6 +27,10 @@ Clean dataset.
 
 
 ### Results:  
+
+The code for data processing is here (https://github.com/dv-nova/Sf_data_science_project-1/blob/main/Project-1.ipynb)
+
+
 A preliminary analysis of data is conducted. Several plots are built for dependecies analysis:
 1) Age distribution (https://firebasestorage.googleapis.com/v0/b/data-science---project-1.appspot.com/o/Applicants_age_distribution.html?alt=media&token=7b61a345-ab71-47be-86ac-2575ed6ffe87)
 2) Working experience distribution (https://firebasestorage.googleapis.com/v0/b/data-science---project-1.appspot.com/o/Working_experience_distribution.html?alt=media&token=56fe2f87-87d3-4315-9230-8c1adba7e717)
