@@ -2,18 +2,9 @@
 
 # Project 1. An analysis of head-hunter CVs
 
-## Contents  
-[1. Project description](https://github.com/dv-nova/sf_data_science/tree/main/project_1/README.md#Project-description)  
-[2. Case to solve](https://github.com/dv-nova/sf_data_science/tree/main/project_1/README.md#Case-to-solve)  
-[3. Short summary of data](https://github.com/dv-nova/sf_data_science/tree/main/project_1/README.md#Short-summary-of-data)  
-[4. Project stages](https://github.com/dv-nova/sf_data_science/tree/main/project_1/README.md#Project-stages)  
-[5. Results](https://github.com/dv-nova/sf_data_science/tree/main/project_1/README.md#Results)    
-[6. Conclusions](https://github.com/dv-nova/sf_data_science/tree/main/project_1/README.md#Conclusions) 
 
 ### Project description    
 An analysis of Head Hunter CVs. The used dataset is deposited here (https://firebasestorage.googleapis.com/v0/b/data-science---project-1.appspot.com/o/dst-3.0_16_1_hh_database.csv?alt=media&token=3b5dbf37-5f7c-44ec-8d8d-8a07a2c1c036). The following exchange rates for currency conversion are used (https://firebasestorage.googleapis.com/v0/b/data-science---project-1.appspot.com/o/ExchangeRates.csv?alt=media&token=a7b30c37-c80a-49b8-b0d9-5237dc489760).
-
-:arrow_up:[back to contents](_)
 
 
 ### Case to solve    
@@ -24,13 +15,13 @@ The current project aims to convert, clean, and analyse the data before construc
 
 ### Short summary of data
 The dataset stores information on a range of features, including age, gender, desired salary, city of residence, schedule, working experience, education level.
-:arrow_up:[back to contents](https://github.com/dv-nova/sf_data_science/tree/main/project_1/README.md#Contents)
+
 
 
 ### Project stages  
 Create a function to guess a number in less than 20 attempts.
 
-:arrow_up:[back to contents](https://github.com/dv-nova/sf_data_science/tree/main/project_1/README.md#Contents)
+
 
 
 ### Results:  
@@ -50,13 +41,12 @@ Piechart of ratios of applicants with different levels of education (https://fir
 
 The dataset is cleaned. 
 
-:arrow_up:[Contents](https://github.com/dv-nova/sf_data_science/tree/main/project_1/README.md#Contents)
 
 
 ### Conclusions:  
 All the tasks are solved.
 
-:arrow_up:[Contents](https://github.com/dv-nova/sf_data_science/tree/main/project_0_HW/README.md#Contents)
+
 
 
 Any comments on the code improvement are welcome. 
