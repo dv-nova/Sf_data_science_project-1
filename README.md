@@ -19,7 +19,9 @@ The dataset stores information on a range of features, including age, gender, de
 
 
 ### Project stages  
-Create a function to guess a number in less than 20 attempts.
+Conduct preliminary analysis.
+Plot dependencies.
+Clean dataset.
 
 
 
